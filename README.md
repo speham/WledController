@@ -2,7 +2,7 @@
 
 ## Controller based on Esp8266-12F  for https://github.com/Aircoookie/WLED.git 
 
-[![Shield](https://github.com/speham/WledController/ControllerClosed.jpg)](https://github.com/speham/WledController/ControllerClosed.jpg)
+[![board](https://github.com/speham/WledController/blob/main/ControllerClosed.jpg)](https://github.com/speham/WledController/blob/main/ControllerClosed.jpg)
 
 ## Settings / Features
 - SW Button - GPIO0  
